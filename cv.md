@@ -17,3 +17,19 @@ I am 15 years old, I am studying at school, at 9 class. I think large part of sc
   - Purposefulness
 
 > Keep learning...
+
+## Skills
+- HTML
+- CSS
+
+## Code Examples
+
+```
+const printReversedWordBySymbol = (word) => {
+    let i = word.length - 1;
+    while (i > word.lenght - word.lenght) {
+        console.log(word[i]);
+        i = i - 1;
+    }
+};
+```
