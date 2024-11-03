@@ -33,3 +33,12 @@ const printReversedWordBySymbol = (word) => {
     }
 };
 ```
+
+## Education
+- **Secondary school number 11 in Brest**
+ - A student of the 9 grade
+
+## Languages
+- **Russian** - native speaker.
+- **Belarusian** - also native speaker.
+- **English** - A2 (B1 in progress...)
