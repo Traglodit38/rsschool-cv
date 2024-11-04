@@ -1,1 +1,1 @@
-https://Traglodit38.github.io/rsschool-cv/cv
+https://Traglodit38.github.io/rsschool-cv/
