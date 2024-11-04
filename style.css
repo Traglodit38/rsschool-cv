@@ -1,0 +1,25 @@
+body {
+    width: 1440px;
+    height: auto;
+    padding: 20px;
+    padding-bottom: 100px;
+}
+
+.h1 {
+    text-align: center;
+}
+.part1 {
+    display: flex;
+    width: 1400px;
+    height: 1269px;
+    gap: 50px;
+}
+.avatar {
+    height: 1269px;
+    width: 1143px;
+}
+
+.contacts {
+    display: flex;
+    flex-direction: column;
+}
